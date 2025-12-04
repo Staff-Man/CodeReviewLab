@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class search{
+public class Search{
     private String pattern;
     private File file;
 
